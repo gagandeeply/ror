@@ -1,0 +1,1 @@
+This is just the start of my Ruby on rails development. Within a month, I will be way, way better at coding and ruby. 
